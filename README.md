@@ -8,6 +8,7 @@
 ```bash
 go get github.com/Yandex-Practicum/final-project-encoding-go/encoding
 go get github.com/Yandex-Practicum/final-project-encoding-go/utils
+```
 
 ## Основные функции
 Encode(data encoding.MyEncoder) error: Функция, которая принимает интерфейс MyEncoder и вызывает метод Encoding() для перекодирования данных.
